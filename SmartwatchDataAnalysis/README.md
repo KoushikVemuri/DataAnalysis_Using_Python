@@ -6,7 +6,7 @@ This project analyzes the data collected from a smartwatch, focusing on various 
 
 The dataset used for analysis was sourced from Kaggle. You can access it using the link below:
 
-(<(https://www.kaggle.com/datasets/arashnic/fitbit)>)
+(https://www.kaggle.com/datasets/arashnic/fitbit)
 
 ## Project Overview
 
@@ -25,8 +25,8 @@ Below are the key visualizations generated in the project:
 ### 1. Calories Burned vs. Total Steps
 A scatter plot showing the linear relationship between the number of steps taken and the calories burned.
 
-(<![Plt1](https://github.com/user-attachments/assets/43c34974-71c2-4d25-ad18-65b463a84043)
->)
+[Plt1](https://github.com/user-attachments/assets/43c34974-71c2-4d25-ad18-65b463a84043)
+
 
 ### 2. Distribution of Activity Minutes
 A pie chart representing the distribution of various activity minutes across the day.
